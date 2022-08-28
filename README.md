@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WcaleNieMisker
 - 👀 I’m interested in coding and generally informatics
-- 🌱 I’m currently learning html, css and javascript, but I have plan for 200 days to become better in several languages 
+- 🌱 I’m currently learning html, css and javascript, but in future I will learn python or sth like that
 - 📫 How to reach me:
     - Instagram (reskimshepard)
     - Discord (Drapehs Mikser#8904)

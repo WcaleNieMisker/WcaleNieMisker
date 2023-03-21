@@ -2,6 +2,6 @@
 - 👀 I’m interested in programming/coding and generally computers or servers
 - 🌱 I’m currently learning html, css and javascript, but in future I will learn python or sth like that
 - 📫 How to reach me:
-    - Instagram (reskimshepard)
+    - Instagram (drapehsmikser)
     - Discord (Drapehs Mikser#8904)
     - Gmail (mikolajpow07@gmail.com)
